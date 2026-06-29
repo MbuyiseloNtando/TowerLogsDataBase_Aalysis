@@ -25,6 +25,7 @@ The project extracts and computes the following key metrics:
 **Total Movements:** Core throughput tracking across the network.
 
 --Total Landings
+
 SELECT 
 	SUM(t.NUMBER_OF_LANDINGS) AS Total_landings
 FROM dbo.TowerLogs t
