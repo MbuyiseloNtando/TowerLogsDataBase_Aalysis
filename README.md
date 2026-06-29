@@ -24,7 +24,7 @@ The project extracts and computes the following key metrics:
 
 1. EOPT Compliance for departures
 
-<img width="366" height="110" alt="image" src="https://github.com/user-attachments/assets/c50d32ca-88de-41c3-aa81-93b8330ac38d" />
+<img width="261" height="79" alt="image" src="https://github.com/user-attachments/assets/6d83653f-0f26-4dfb-b526-caf88d2b5929" />
 
 
 
