@@ -10,7 +10,7 @@ A comprehensive data analysis and performance optimization project focused on ai
 
 **Performance Monitoring:** STATISTICS IO and STATISTICS TIME execution plan tuning.
 
-📊 **Core Insights & Analytical Scopes**
+📊 **Core Insights and Output Snippets**
 
 
 The project extracts and computes the following key metrics:
