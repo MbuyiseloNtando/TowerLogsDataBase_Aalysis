@@ -12,9 +12,9 @@ Performance Monitoring: STATISTICS IO and STATISTICS TIME execution plan tuning.
 The project extracts and computes the following key aviation metrics across various operational dimensions:
 
 | TotalMovements | TotalArrivals% | TotaDeparture% | TotalOperationalAirports | EOBT (on time and Ealry) |
-| --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 360,185 | 35.9 | 36.09| 21 | 79.88%|
-| Cell 4 | Cell 5 | Cell 6 |
+
 
 
 1. Traffic Volumetrics & Trends
