@@ -3,13 +3,15 @@
 A comprehensive data analysis and performance optimization project focused on airport traffic modeling, capacity analysis, and delay tracking. Utilizing SQL Server, this project aggregates raw tower logs and airport metadata to extract critical operational insights—such as movement distributions, wake turbulence profiling, and schedule compliance.
 
 **Tech Stack & Methodology**
+
 Database Engine: Microsoft SQL Server (T-SQL)
 
 Optimization Techniques: Indexing, CTEs, Window Functions (SUM() OVER), and query modularization to handle high-cardinality COUNT(DISTINCT) aggregates.
 
 Performance Monitoring: STATISTICS IO and STATISTICS TIME execution plan tuning.
 
-📊 Core Insights & Analytical Scopes
+📊 **Core Insights & Analytical Scopes**
+
 The project extracts and computes the following key aviation metrics across various operational dimensions:
 
 | TotalMovements | TotalArrivals% | TotaDeparture% | TotalOperationalAirports | EOBT (on time and Ealry) |
