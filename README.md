@@ -4,16 +4,16 @@ A comprehensive data analysis and performance optimization project focused on ai
 
 **Tech Stack & Methodology**
 
-Database Engine: Microsoft SQL Server (T-SQL)
+**Database Engine:** Microsoft SQL Server (T-SQL)
 
-Optimization Techniques: Indexing, CTEs, Window Functions (SUM() OVER), and query modularization to handle high-cardinality COUNT(DISTINCT) aggregates.
+**Optimization Techniques:** Indexing, CTEs, Window Functions (SUM() OVER), and query modularization to handle high-cardinality COUNT(DISTINCT) aggregates.
 
 Performance Monitoring: STATISTICS IO and STATISTICS TIME execution plan tuning.
 
 📊 **Core Insights & Analytical Scopes**
 
 
-The project extracts and computes the following key aviation metrics across various operational dimensions:
+The project extracts and computes the following key metrics:
 
 | TotalMovements | TotalArrivals% | TotaDeparture% | TotalOperationalAirports | EOBT (on time and Ealry) |
 | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ The project extracts and computes the following key aviation metrics across vari
 
 
 1. Traffic Volumetrics & Trends
-Total Landings & Movements: Core throughput tracking across the network.
+**Total Movements:** Core throughput tracking across the network.
 
 Departures Over Time: High-level temporal analysis to identify long-term growth and seasonal trends.
 
