@@ -28,6 +28,53 @@ The project extracts and computes the following key metrics:
 
 
 
+ 2. Departues and Arrivals over time
+
+<img width="213" height="367" alt="image" src="https://github.com/user-attachments/assets/ae012370-e62f-45ca-926a-9b8ad9dc7ebe" />
+<img width="180" height="369" alt="image" src="https://github.com/user-attachments/assets/96dd9559-93a4-45f7-a215-40efe64d4edc" />
+
+3. Movements Per Airport
+   
+<img width="343" height="363" alt="image" src="https://github.com/user-attachments/assets/73b5ac27-be6b-4c95-ad80-94917e832ae1" />
+
+5. Percentage Movements for each Airport
+   
+<img width="559" height="363" alt="image" src="https://github.com/user-attachments/assets/840dd707-f0b8-4995-8246-296736739f56" />
+
+7. Tower log type by Airports
+   
+<img width="427" height="363" alt="image" src="https://github.com/user-attachments/assets/364a300e-6b3f-4f32-9c03-adcedc9a898b" />
+
+9. Movemts in IFR/VFR for each airport
+    
+<img width="402" height="360" alt="image" src="https://github.com/user-attachments/assets/d73c5cdd-f5a6-4fd0-9493-7e767482a396" />
+
+10. Movemnts WTC for each airport
+    
+<img width="474" height="362" alt="image" src="https://github.com/user-attachments/assets/081128b6-db83-4ae1-9c8e-7b7a73c3fa11" />
+
+11. Delay reasons, delay time and total delays
+
+<img width="285" height="362" alt="image" src="https://github.com/user-attachments/assets/ebfc649f-aaad-4521-a8ac-5f18a1467d00" />
+
+12. 10 Busiest routes
+
+<img width="285" height="362" alt="image" src="https://github.com/user-attachments/assets/2a63d470-fa9b-4edd-8585-cc19ab265ae2" />
+
+13. Summary of Operations per Airport
+
+<img width="882" height="368" alt="image" src="https://github.com/user-attachments/assets/4161e223-7aea-4337-8a4b-60f5168ad729" />
+
+
+
+
+
+
+
+
+
+
+
 Departures Over Time: High-level temporal analysis to identify long-term growth and seasonal trends.
 
 Arrivals & Departures per Month: Monthly seasonality profiling to assist in seasonal airport resource allocation.
