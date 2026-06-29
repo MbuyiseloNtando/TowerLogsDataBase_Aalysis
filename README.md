@@ -64,3 +64,7 @@ The project extracts and computes the following key metrics:
 13. Summary of Operations per Airport
 
 <img width="882" height="368" alt="image" src="https://github.com/user-attachments/assets/4161e223-7aea-4337-8a4b-60f5168ad729" />
+
+**Conclusions**
+
+ACSA Apron has the most and Highest delay time (40 Minutes), while the dalyed caused by the weather were not that significant. King Shaka King Shaka has the third most of commercial flights, due to a lot of private aircrafts in the other smaller airports it doesnt have top 5 busiest routes.  
