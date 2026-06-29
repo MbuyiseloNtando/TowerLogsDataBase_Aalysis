@@ -1,4 +1,5 @@
-Aviation Operations & Movement Analytics
+**Aviation Operations & Movement Analytics**
+
 A comprehensive data analysis and performance optimization project focused on airport traffic modeling, capacity analysis, and delay tracking. Utilizing SQL Server, this project aggregates raw tower logs and airport metadata to extract critical operational insights—such as movement distributions, wake turbulence profiling, and schedule compliance.
 
 🛠️ Tech Stack & Methodology
