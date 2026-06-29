@@ -24,13 +24,10 @@ The project extracts and computes the following key metrics:
 1. Traffic Volumetrics & Trends
 **Total Movements:** Core throughput tracking across the network.
 
---Total Landings
+--EOPT Compliance for departures
+<img width="366" height="110" alt="image" src="https://github.com/user-attachments/assets/c50d32ca-88de-41c3-aa81-93b8330ac38d" />
 
-SELECT 
-	SUM(t.NUMBER_OF_LANDINGS) AS Total_landings
-FROM dbo.TowerLogs t
-join.dbo.Airports a
-on t.ICAO_ID = a.ICAOID
+
 
 Departures Over Time: High-level temporal analysis to identify long-term growth and seasonal trends.
 
