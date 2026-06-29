@@ -21,10 +21,9 @@ The project extracts and computes the following key metrics:
 
 
 
-1. Traffic Volumetrics & Trends
-**Total Movements:** Core throughput tracking across the network.
 
---EOPT Compliance for departures
+1. EOPT Compliance for departures
+
 <img width="366" height="110" alt="image" src="https://github.com/user-attachments/assets/c50d32ca-88de-41c3-aa81-93b8330ac38d" />
 
 
