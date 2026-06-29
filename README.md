@@ -8,7 +8,7 @@ A comprehensive data analysis and performance optimization project focused on ai
 
 **Optimization Techniques:** Indexing, CTEs, Window Functions (SUM() OVER), and query modularization to handle high-cardinality COUNT(DISTINCT) aggregates.
 
-Performance Monitoring: STATISTICS IO and STATISTICS TIME execution plan tuning.
+**Performance Monitoring:** STATISTICS IO and STATISTICS TIME execution plan tuning.
 
 📊 **Core Insights & Analytical Scopes**
 
