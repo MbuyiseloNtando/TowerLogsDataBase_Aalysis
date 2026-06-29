@@ -12,6 +12,7 @@ Performance Monitoring: STATISTICS IO and STATISTICS TIME execution plan tuning.
 
 📊 **Core Insights & Analytical Scopes**
 
+
 The project extracts and computes the following key aviation metrics across various operational dimensions:
 
 | TotalMovements | TotalArrivals% | TotaDeparture% | TotalOperationalAirports | EOBT (on time and Ealry) |
