@@ -13,7 +13,7 @@ The project extracts and computes the following key aviation metrics across vari
 
 | TotalMovements | TotalArrivals% | TotaDeparture% | TotalOperationalAirports | EOBT (on time and Ealry) |
 | --- | --- | --- | --- | --- |
-| 360,185 | 35.9 | 36.09| 21 | 79.88%|
+| 360,185 | 35.9 | 36.09| 21 | 79.88% |
 
 
 
